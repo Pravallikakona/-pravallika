@@ -1,0 +1,6 @@
+Program 
+n=int(input())
+ifn%2==0:
+   print("even")
+else:
+   print ("odd")
